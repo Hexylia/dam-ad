@@ -10,7 +10,7 @@ public class Ejercicio3 {
 		
 		File f = new File(args[0]);
 		
-		FileReader fr = null;
+		FileReader fr = new FileReader(f);
 		
 		FileWriter fw = new FileWriter("Entrada.txt");
 		

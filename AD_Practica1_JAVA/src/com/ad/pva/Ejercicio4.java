@@ -1,5 +1,4 @@
-package com.ad.pva.practica1;
-
+package com.ad.pva;
 public class Ejercicio4 {
 
 	public static void main(String[] args) {
